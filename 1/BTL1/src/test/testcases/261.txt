@@ -1,0 +1,17 @@
+number global_x <- 32*19+38 - [1,2,3,4,5,[1,2,3,5]]
+        var _number <- 3*9+1
+        
+        func main(number x)            
+            begin
+                number a <- 15 
+                number a <- [1, 2, 3, 4, 5]
+                begin
+                    number b <- [1,2,3,4,5] * 32 ... "Frenkie De Jong" + 0.10e-32
+                end
+                
+                var i <- 2
+                for i until i > x / 2 by 1
+                    writeNumber(i)
+                number arrayNumber[19*23,15]
+            end
+        

@@ -1,0 +1,8 @@
+
+            number x <- true
+            number y <- false
+            number z <- 1
+            number x <- 1.0
+            number y <- "123"
+            number z <- "123.0"
+        

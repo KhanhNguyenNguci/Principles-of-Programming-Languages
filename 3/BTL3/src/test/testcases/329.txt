@@ -1,0 +1,3 @@
+
+            var b <- true and "true" or 1 
+        

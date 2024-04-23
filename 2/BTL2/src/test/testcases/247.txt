@@ -1,0 +1,17 @@
+ 
+        func main() begin
+            var a <- 7
+            var b <- 12
+            var c <- 5
+
+            if (a > b) 
+                writeString("a is greater than b")
+            elif (a < b) if (c > 0 and c < 10) 
+                writeString("a is less than b and c is between 0 and 10")
+            else 
+                writeString("a is less than b and c is not between 0 and 10")
+            else 
+                writeString("a is equal to b")
+
+        end
+        

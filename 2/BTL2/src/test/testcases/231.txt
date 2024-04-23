@@ -1,0 +1,12 @@
+
+        func true(var arg)
+        begin
+        for i until i!=30 by 1 begin
+            if (i = 3) continue
+            if (i >10) break
+            else printString("Le Festin")
+        end
+
+        callfunc()
+        end      
+        

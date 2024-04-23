@@ -1,0 +1,11 @@
+
+        func f(number arg)
+        begin
+        for dynamic until dynamic!=30 by 1*9/30-15%2 begin
+
+            if (i = 3) continue
+            if (i > 1) break
+            else printString("Le Festin")
+        end
+        end      
+        

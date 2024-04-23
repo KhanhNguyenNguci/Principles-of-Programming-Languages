@@ -1,0 +1,14 @@
+func main() begin
+        for i until i>3 by 1
+        if (a>3) writeNumber(a)
+        elif (a>2) writeNumber(a)
+        else break
+        readBool()
+
+
+
+
+        var x <- 3/2+a[7]
+        end
+        func foo(number a) return 1
+        

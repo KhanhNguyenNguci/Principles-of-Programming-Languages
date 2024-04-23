@@ -1,0 +1,11 @@
+
+        func axl_Rose(string str) return "guns' n' roses"
+
+        func main() begin
+        string str <- "when i look i to your eyes"
+
+        string str <- "i can see the love restrained" 
+
+        number f <- func(35*10+9-323/71%83)
+        end     
+        

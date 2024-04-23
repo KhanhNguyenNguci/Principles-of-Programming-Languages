@@ -1,0 +1,12 @@
+func main() 
+        begin
+        number a[7] <- [1,2,3,4,5,6,7]
+        number b[3,7] <- [[1,2,3,4,5,6,7],[1,2,3,4,5,6,7],[1,2,3,4,5,6,7]]
+
+        a[0] <- 325 + 7
+        a[1] <- 2*3+7/5-45
+        a[foo(3)+7*9] <- "Anh yeu em pac pac"
+
+        end
+        func foo(number a) return 1
+        

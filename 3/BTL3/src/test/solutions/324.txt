@@ -1,0 +1,1 @@
+Program([VarDecl(Id(t), None, var, BinaryOp(=, BooleanLit(True), StringLit(true)))])

@@ -1,0 +1,4 @@
+
+,func,main,(,number,arg,),
+,begin,
+,string,str,<-,Illegal Escape In String: full stack developer\i

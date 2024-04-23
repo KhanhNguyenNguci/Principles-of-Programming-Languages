@@ -1,0 +1,12 @@
+func main()
+        begin
+        if (a>7) printString("32")
+
+        elif (a>6) printString("haha")
+
+        elif (a=6) readString() ## else return 32
+
+        var z <- true > 3 + 10 <= 20
+        
+
+        end

@@ -1,0 +1,6 @@
+
+            func main()
+                begin
+                    pi[1,2,3] <- 3.14
+                end
+        

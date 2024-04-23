@@ -1,0 +1,14 @@
+
+            func main()
+                begin
+                    if (true)
+                        pi <- 3.14
+                    elif (1 + 2 != 3) 
+                        if (true) continue
+                        elif (1 + 2) break
+                        else a <- 1
+                    elif ("a" == "a") 
+                        continue
+                    else pi <- -3.14
+                end  
+        

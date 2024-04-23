@@ -1,0 +1,13 @@
+func main(number x)
+            begin
+                number a <- 15 
+                number a <- [1, 2, 3, 4, 5]
+                begin
+                    number b <- [1,2,3,4,5] * 32 ... "Frenkie De Jong" + 0.10e-32
+                end
+                
+                var i <- 2
+                for i until i > x / 2 by 1
+                    writeNumber(i)
+            end
+        

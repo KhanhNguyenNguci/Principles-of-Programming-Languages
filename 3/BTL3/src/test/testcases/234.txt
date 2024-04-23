@@ -1,0 +1,28 @@
+func main(number arg)
+        begin
+            number b[2,3] <- [[1+2, 3+5, foo(3)], [foo(15*27/32),"j' aime la france", "comment allez vous"]]
+
+            number array[2,2] <- [[not true, not false, foo(3) or foo(4)], [not balance, you and i]]
+
+            for z until foo(z) == "error" by 1 
+                begin
+                    printString("Happy New Year")
+
+                    for i until i < 100 by 2
+                        begin
+                            printString("Bonne anne'e !")
+                            readNumber()
+                            writeNumber(32)
+                            readBool()
+                            writeBool(true)
+
+                            readString()
+
+                            if (a=2) 
+                                begin
+                                    printString("Bonjour")
+                                end
+                        end
+                end
+        end
+        

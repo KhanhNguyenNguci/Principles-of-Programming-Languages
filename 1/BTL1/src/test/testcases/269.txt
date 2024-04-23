@@ -1,0 +1,10 @@
+ 
+            string yeezy <- "Kayne West" ... "Kim Kardashian"
+
+            func houseOfM(string arg, number arg, bool arg, string arg[10])
+            begin
+            func main() begin
+
+            end
+            end
+        

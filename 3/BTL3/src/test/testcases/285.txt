@@ -1,0 +1,6 @@
+    
+        func a()
+            begin
+                a["string"] <- 1
+            end
+        

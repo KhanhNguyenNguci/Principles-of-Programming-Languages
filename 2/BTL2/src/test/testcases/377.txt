@@ -1,0 +1,9 @@
+
+            func main()
+                begin
+                    if (true) return 1
+                    elif (true) return 2
+                    elif (true) return 3
+                    else return 4
+                end
+        

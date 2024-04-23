@@ -1,0 +1,1 @@
+Program([VarDecl(Id(x), NumberType, None, BooleanLit(True)), VarDecl(Id(y), NumberType, None, BooleanLit(False)), VarDecl(Id(z), NumberType, None, NumLit(1.0)), VarDecl(Id(x), NumberType, None, NumLit(1.0)), VarDecl(Id(y), NumberType, None, StringLit(123)), VarDecl(Id(z), NumberType, None, StringLit(123.0))])

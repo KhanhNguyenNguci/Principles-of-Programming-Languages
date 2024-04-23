@@ -1,0 +1,21 @@
+
+        dynamic a <- 0
+        number b <- 199
+        number c <- 12.
+        var d <- 12.3
+        var e <- 12.3e1500000 - 3015
+        number f <- 12e-15 * 15 / 27
+        string str <- "Macbook Pro M1 	"
+        func main(string a)
+        begin
+        ## comment
+        var a <- "str" ## this is a comment
+        ## this is a comment too >>>> <<<<<<<xxxxx
+        number a[5] <- [3+2/7*18%(32),30e-7-15,110.20e+15]
+
+
+        end
+        ## Cristiano Ronaldo is better than Lionel Messi
+
+        
+        

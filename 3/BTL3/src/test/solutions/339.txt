@@ -1,0 +1,1 @@
+Program([VarDecl(Id(a), None, var, StringLit(a)), VarDecl(Id(b), None, var, StringLit(bb)), VarDecl(Id(c), None, var, StringLit(ccc))])

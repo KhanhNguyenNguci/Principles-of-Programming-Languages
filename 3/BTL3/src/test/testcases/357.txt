@@ -1,0 +1,10 @@
+
+            func main()
+                begin  
+                    a <- 10
+                end
+            func main()
+                begin
+                    a <- 1
+                end
+        

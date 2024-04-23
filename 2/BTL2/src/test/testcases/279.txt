@@ -1,0 +1,5 @@
+
+            func main() begin
+            foo()[3]<-2
+            end
+        

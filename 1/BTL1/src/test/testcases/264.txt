@@ -1,0 +1,9 @@
+
+        func axl_Rose(string str) return "guns' n' roses"
+
+        func main() begin
+        string str <- "when i look i to your eyes"
+
+        string str <- "i can see the love restrained" 
+        end     
+        

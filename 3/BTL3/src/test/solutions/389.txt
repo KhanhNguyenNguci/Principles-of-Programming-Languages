@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(calculateSquare), [VarDecl(Id(n), NumberType, None, None)], Return(BinaryOp(*, Id(n), Id(n)))), FuncDecl(Id(main), [], Block([VarDecl(Id(num), None, var, NumLit(5.0)), VarDecl(Id(result), None, var, CallExpr(Id(calculateSquare), [Id(num)])), CallStmt(Id(print), [Id(result)])]))])

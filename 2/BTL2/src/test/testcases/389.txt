@@ -1,0 +1,11 @@
+
+        func calculateSquare(number n)
+        return n * n
+
+        func main()
+        begin
+            var num <- 5
+            var result <- calculateSquare(num)
+            print(result)
+        end
+        

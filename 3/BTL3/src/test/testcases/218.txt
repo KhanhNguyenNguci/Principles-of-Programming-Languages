@@ -1,0 +1,19 @@
+
+        dynamic a <- 0
+        number b <- 199
+        number c <- 12.
+        var d <- 12.3
+        var e <- -12.3e1500000 - 3015
+        number f <- 12e-15 * 15 / 27 and (15<32) = 1
+
+        string frank_sinatra <- "fly me to the moon "..."lala" ##comment
+
+        bool check <- true and not false and not true or not false or ((32>10)>0) = true
+
+        bool boolean <- boo + bo + b
+
+        func main(string str[30,31,32,33,34,35], string str2[0]) return str[1,2,3,4,5,5]
+
+        string str[a[2]+1]
+        
+        

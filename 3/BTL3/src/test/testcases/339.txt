@@ -1,0 +1,5 @@
+
+            var a <- "a"
+            var b <- "bb"
+            var c <- "ccc"
+        

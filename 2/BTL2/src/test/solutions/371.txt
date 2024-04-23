@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([CallStmt(Id(main), []), CallStmt(Id(main), []), CallStmt(Id(mainy), [])]))])

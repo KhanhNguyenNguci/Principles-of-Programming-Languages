@@ -1,0 +1,14 @@
+
+            func factorial(number n)
+            begin
+                if (n <= 1) return 1
+                else return n * factorial(n - 1)
+            end
+
+            func main()
+            begin
+                var num <- 5
+                var result <- factorial(num)
+                print(result)
+            end
+        

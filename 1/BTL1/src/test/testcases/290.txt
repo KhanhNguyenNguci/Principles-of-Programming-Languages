@@ -1,0 +1,6 @@
+    
+        func a()
+            begin
+                hehehe[] <- 1
+            end
+        

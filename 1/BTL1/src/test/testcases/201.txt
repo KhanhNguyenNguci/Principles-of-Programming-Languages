@@ -1,0 +1,24 @@
+
+        func compareArrays(number arr1[5], number arr2[5])
+        begin
+            if (length(arr1) != length(arr2)) 
+                return "Arrays are not equal"
+
+            number len <- length(arr1)
+            number i <- 0
+
+            for i until i < len by i + 1
+                if (arr1[i] != arr2[i]) 
+                    return "Arrays are not equal"
+            return "Arrays are equal"
+        end
+
+        func main()
+        begin
+            number array1[5] <- [1, 2, 3, 4, 5]
+            number array2[5] <- [1, 2, 3, 4, 5]
+
+            string result <- compareArrays(array1, array2)
+            writeString(result)
+        end
+        

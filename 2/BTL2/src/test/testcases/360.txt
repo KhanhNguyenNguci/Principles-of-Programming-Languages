@@ -1,0 +1,7 @@
+
+            func main()
+                begin
+                    if (true)
+                        pi <- 3.14
+                end
+        

@@ -1,0 +1,11 @@
+
+        func greet(string name, string greeting)
+        return greeting + ", " + name + "!"
+
+        func main()
+        begin
+            var username <- "Alice"
+            var message <- greet(username, "Hello")
+            printString(message)
+        end
+        

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(helloworld), [], Block([CallStmt(Id(writeString), [])])), FuncDecl(Id(main), [], Block([CallStmt(Id(helloworld), [])]))])

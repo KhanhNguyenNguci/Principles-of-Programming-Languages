@@ -1,0 +1,7 @@
+
+        func axl_Rose(string str) return "guns' n' roses"
+
+        func main() begin
+        string f <- readBool(true)
+        end     
+        

@@ -1,0 +1,14 @@
+ 
+            ##12
+            func main(number a) 
+                ##12
+                ##12##12
+                ###12
+                begin 
+                    break
+                    if(a[foo(7)/2] == "Buta-1'3-dien")
+                    continue
+                end
+            func main(number a)
+            ##12        
+        

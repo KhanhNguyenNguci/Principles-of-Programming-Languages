@@ -1,0 +1,17 @@
+
+        func multiplyArray(number arr[5])
+        begin
+            var result <- 1
+            var i <- 0
+            for i until i < length(arr) by 1
+                result <- result * arr[i]
+            return result
+        end
+
+        func main()
+        begin
+            number numbers[5] <- [1, 2, 3, 4, 5]
+            var product <- multiplyArray(numbers)
+            print(product)
+        end    
+        

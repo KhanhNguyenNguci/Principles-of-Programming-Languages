@@ -1,0 +1,3 @@
+
+        func rose(string str) return "Nao dau ai muon quen"     
+        

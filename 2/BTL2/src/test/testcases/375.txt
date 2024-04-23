@@ -1,0 +1,13 @@
+
+            func main()
+                begin
+                    for i until i >= 32 by 1
+                    begin
+                        for i until i >= 32 by 1
+                            begin
+                                i <- i + 1  
+                            end
+                    end
+                end
+            
+        

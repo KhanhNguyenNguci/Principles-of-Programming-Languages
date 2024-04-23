@@ -1,0 +1,9 @@
+
+        string str <- "God of war"
+
+        var x <- a[1+2,15/32*4] + -32 * 45 + not true
+
+        func superman() begin
+        var a[3,2] <- [[1,2],[3,4],[5,6]]
+        end        
+        

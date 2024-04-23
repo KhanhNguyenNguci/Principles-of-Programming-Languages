@@ -1,0 +1,21 @@
+
+        func manUtd(string manUtd_mem[11,3]) begin
+        for i until i<11 by 1
+        begin
+        if (manUtd_mem[0] == "Bruno Fernandes") printString("Captain")
+        elif (manUtd_mem[1] == "Andre Onana") printString("chu be ngu")
+        elif (manUtd_mem[2] == "Marcus Rashford") printString("Tien Si")
+        elif (manUtd_mem[3] == "Alenjandro Garnacho")
+            if(manUtd_mem[3,0] == "Goal") printString("Siuuuu 7777")
+            elif(manUtd_mem[3,0] == "Miss") printString("Kim Ri Con")
+            else
+                if(manUtd_mem[3,1] == "Assist" and (manUtd = 12))
+                    if(x = 12) print(x)
+                    elif (x = 12+12)
+                        if(x = 32*32+7) print(st) 
+                    else print(f)
+                else printString("haha")
+        end
+        end
+
+        

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main), [], Block([If((BooleanLit(True), AssignStmt(Id(pi), NumLit(3.14))), [], AssignStmt(Id(pi), UnaryOp(-, NumLit(3.14))))]))])

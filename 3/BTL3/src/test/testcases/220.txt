@@ -1,0 +1,5 @@
+
+        string str <- "God of war"
+
+        string str = 3232  
+        

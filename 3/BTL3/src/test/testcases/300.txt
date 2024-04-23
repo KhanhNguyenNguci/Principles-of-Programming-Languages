@@ -1,0 +1,15 @@
+
+        func axl_Rose(string str) return "guns' n' roses"
+
+        func main() begin
+        string str1<- "when i look i to your eyes"
+
+        string str2 <- "i can see the love restrained" 
+
+
+
+        number f <- funcMain(35*10+9-323/71%83)
+
+        if (if>7) return 1
+        end     
+        

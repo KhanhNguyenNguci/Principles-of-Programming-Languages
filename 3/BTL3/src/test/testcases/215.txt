@@ -1,0 +1,13 @@
+func main(string a)
+        begin
+        ## comment
+        var a <- "str" ## this is a comment
+        ## this is a comment too >>>> <<<<<<<xxxxx
+        number a[5] <- [3+2/7*18%(32),30e-7-15,110.20e+15]
+
+
+        end
+        ## Cristiano Ronaldo is better than Lionel Messi
+
+        
+        

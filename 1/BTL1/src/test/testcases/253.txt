@@ -1,0 +1,7 @@
+
+        func main(string str) begin
+        bool c <- (32>10)>8 and true
+        for a until a<39 and true or false by 1*39+27-15
+        printString("haha")
+        end  
+        

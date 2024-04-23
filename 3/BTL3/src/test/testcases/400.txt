@@ -1,0 +1,6 @@
+
+        func main() 
+        begin
+            print("This is the end of assignment 2")
+        end
+        

@@ -1,0 +1,8 @@
+func main(string a)
+        begin
+        ## comment
+        var a <- "str" ## this is a comment
+        ## this is a comment too >>>> <<<<<<<xxxxx
+        end
+        ## Cristiano Ronaldo is better than Lionel Messi
+        

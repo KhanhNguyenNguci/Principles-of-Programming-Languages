@@ -1,0 +1,12 @@
+ 
+            string yeezy <- "Kayne West" ... "Kim Kardashian"
+
+            func houseOfM(string arg, number arg, bool arg, string arg[10])
+            begin
+            if(30>9-42+7/38 and not false or true)
+                if(30>9-42+7/38 and not false or true)
+                    if(30>9-42+7/38 and not false or true - "Kim So Huyn")
+                        if(30>9-42+7/38 and not false or true) number[a[32]] <- 7/2/2002
+                        else callfunc_x_y_z()
+            end
+        

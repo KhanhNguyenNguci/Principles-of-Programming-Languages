@@ -1,0 +1,9 @@
+
+            func phuc(number param) begin
+            if (param%2=0) return true
+            elif (param=3*2*12e-37%4) return false
+            else if(RED_DEAD_REDEMPTION == " Game of the Year\r \n") if(GOD_OF_WAR == "Game of the year") if(A+B+C+D*F-G/H and not false) return haha
+            end    
+            number a <- fun()[1] + phuc(loc(tho()))["Happy New Year'""]
+
+        

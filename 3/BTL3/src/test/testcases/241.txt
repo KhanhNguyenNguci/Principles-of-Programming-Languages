@@ -1,0 +1,6 @@
+ 
+            func createArray(number size)
+            begin
+                var arr[size] <- [1, 2, 3, 4, 5]  
+            end
+            

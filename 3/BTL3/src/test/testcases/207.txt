@@ -1,0 +1,20 @@
+
+        func main(number arg)
+        begin
+        for i until i!=30 by 1 begin
+            if (i = 3) continue
+            if (i > 1) break
+            else printString("Le Festin")
+        end
+
+        a <- b
+
+        for i until i <49 by 2+3+4*15/32 foo(true,false, not false)
+
+        if (a) callfunc(3)
+        
+        elif (not a) callfunc(2)
+
+        else callfunc(1)
+        end      
+        

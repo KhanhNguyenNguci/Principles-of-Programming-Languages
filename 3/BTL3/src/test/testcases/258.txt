@@ -1,0 +1,10 @@
+
+        func main(string str) begin
+        bool c <- (32>10)>8 and true
+        for a until a<39 and true or false or true and ("con"..."cho" == "con cho") or (69%2!=0) by 1*39+27-15
+        begin
+            for b until a == "Ronaldo" by 13
+            print(x)
+        end
+        end  
+        

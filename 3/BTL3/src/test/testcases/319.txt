@@ -1,0 +1,5 @@
+
+            func main()
+            func main(number a)
+            func main(bool a)
+        

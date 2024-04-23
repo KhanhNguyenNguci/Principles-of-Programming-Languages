@@ -1,0 +1,21 @@
+
+        func notMain(number a, string b) begin
+        begin
+        begin
+        begin
+        end
+        end        
+        end
+
+        func main(number arg)
+        begin
+        for i until i!=30 by 1*9/30-15%2 begin
+
+            if (i = 3) continue
+            if (i > 1) break
+            else printString("Le Festin")
+        end
+
+        var variable <- true + false + not foo(3)
+        end      
+        

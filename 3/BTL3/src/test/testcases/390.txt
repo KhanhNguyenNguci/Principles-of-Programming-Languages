@@ -1,0 +1,14 @@
+
+        func main()
+        begin
+            var x <- 10
+            if (x > 0) 
+            begin
+                print(x)
+                if (x <= 5) printString("Small")
+                elif (x <= 10) printString("Medium")
+                else printString("Large")
+            end
+            else printString("Non-positive")
+        end    
+        

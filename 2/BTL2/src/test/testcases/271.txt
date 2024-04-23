@@ -1,0 +1,12 @@
+ 
+            string yeezy <- "Kayne West" ... "Kim Kardashian"
+
+            func houseOfM(string arg, number arg, bool arg, string arg[10])
+            begin
+            continue
+            break
+            for iterator until iterator >100 by haha
+                continue
+            break
+            end
+        

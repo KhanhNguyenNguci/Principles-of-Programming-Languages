@@ -1,0 +1,15 @@
+
+        func checkOddEven(number n)
+        begin
+            if (n % 2 = 0) 
+                return "Even"
+            else return "Odd"
+        end
+
+        func main()
+        begin
+            number num <- 7
+            string result <- checkOddEven(num)
+            writeString(result)
+        end
+        

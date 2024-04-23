@@ -1,0 +1,6 @@
+
+        func main(number arg) 
+        begin
+        string str <- "full stack developer\i"
+        end
+        

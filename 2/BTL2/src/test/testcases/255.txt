@@ -1,0 +1,5 @@
+
+        func main(string str) begin
+        bool c <- 32>10>8
+        end  
+        

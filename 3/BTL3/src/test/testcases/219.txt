@@ -1,0 +1,7 @@
+
+        string str <- "God of war"
+
+        var x <- a[1+2,15/32*4] + -32 * 45 + not true
+
+        dynamic a[3,2]
+        

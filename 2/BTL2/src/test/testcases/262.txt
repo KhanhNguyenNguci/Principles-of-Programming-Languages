@@ -1,0 +1,9 @@
+number global_x <- 32*19+38 - [1,2,3,4,5,[1,2,3,5]]
+        var _number <- 3*9+1
+        string Barcelona_squad[11]<-["Robert Lewandowski","Raphinha","Joao Felix","Gavi","Pedri","Frenkie De Jong","Ronald Araujo","Jules Kounde","Alejandro Balde","Sergio Roberto","Ter Stegen"]
+
+        string RealMadrid_squad[11]<-["Joselu","Vinicius Jr","Jude Bellingham","Federico Valverde","Edouardo Carmavinga","Tchouchameni","David Alaba","Antonio Rudiger","Dani Carvajal","Ferland Mendy","Andriy Lunin"]
+
+        string matchResult <- RealMadrid ... "4-1" ...Barcelona
+
+        

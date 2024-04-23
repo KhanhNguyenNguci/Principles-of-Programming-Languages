@@ -1,0 +1,17 @@
+
+        func isEven(number n)
+        return n % 2 = 0
+
+        func isPositive(number n)
+        return n > 0
+
+        func main()
+        begin
+            number num <- 8
+            if (isEven(num) and isPositive(num))
+                printString("Even and Positive")
+            elif (not isEven(num) and isPositive(num))
+                printString("Odd and Positive")
+            else printString("Not Odd and Positive")
+        end
+        

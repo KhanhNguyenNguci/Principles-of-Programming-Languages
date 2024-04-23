@@ -1,0 +1,25 @@
+func printString() return "haha"
+        func checkIfNameExist(number a, string str, number arr[32])
+        begin
+        if (a = 7) printString()
+        else return arr[1/2%7]
+        end
+        
+        func main(number arg[10]) 
+        begin
+        var a <- (not true) and (not (not false))
+        bool check <- (15>2) and (1<10) or checkLegit("Cristiano Ronaldo is the greatest of all time")
+
+        string str[7] <- [("str1	"),("str2	"),("str3")]
+
+        if (a == "hello world" ... "Ronaldo") print(3)
+
+        for i until i<100 by 1
+        begin
+        a <- a... "New string "
+
+        a <- number f
+        end
+        end
+        
+        

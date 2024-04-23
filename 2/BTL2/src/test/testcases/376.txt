@@ -1,0 +1,11 @@
+
+            func main()
+                begin
+                    return 10
+                end
+            func main()
+                begin
+                    if (a) return 10
+                    else break
+                end
+        

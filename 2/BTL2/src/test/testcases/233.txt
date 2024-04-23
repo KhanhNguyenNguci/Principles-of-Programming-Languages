@@ -1,0 +1,6 @@
+
+            number b[5] <- "summer is for falling in love"
+
+            if(a)
+            var b[37] <- "x"
+        

@@ -1,0 +1,15 @@
+func deck(number controller) begin
+        string str[2,2]<-[["con cho","con meo"],["con khi?","con chim"]]
+        if (a>7) 
+            if (a%2 = 0) printString("Even")
+            else printString("Odd")
+        elif (a>6) 
+            if (a%3 = 0) printString("multiple of 3")
+            else printString("Not multiple of 3")
+        else printString("haha")
+
+        str[foo+3/2*(30>1)*15, 100%30%35+10] <- "Con rong" ... "Nam My"
+        end 
+
+        func main(var arg) return 0       
+        

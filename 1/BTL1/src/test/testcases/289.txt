@@ -1,0 +1,10 @@
+
+        func helloworld()
+        begin
+            writeString()
+        end
+        func main()
+        begin
+            helloworld() 
+        end
+        
